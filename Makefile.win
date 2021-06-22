@@ -1,0 +1,46 @@
+# Project: newnew
+# Makefile created by Dev-C++ 5.11
+
+CPP      = g++.exe -D__DEBUG__
+CC       = gcc.exe -D__DEBUG__
+WINDRES  = windres.exe
+OBJ      = main.o simulation.o store.o warehouse.o strategy.o test.o drug.o
+LINKOBJ  = main.o simulation.o store.o warehouse.o strategy.o test.o drug.o
+LIBS     = -L"G:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"G:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc -g3
+INCS     = -I"G:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"G:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"G:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include"
+CXXINCS  = -I"G:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"G:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"G:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"G:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"
+BIN      = newnew.exe
+CXXFLAGS = $(CXXINCS) -g3
+CFLAGS   = $(INCS) -g3
+RM       = rm.exe -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+main.o: main.cpp
+	$(CPP) -c main.cpp -o main.o $(CXXFLAGS)
+
+simulation.o: simulation.cpp
+	$(CPP) -c simulation.cpp -o simulation.o $(CXXFLAGS)
+
+store.o: store.cpp
+	$(CPP) -c store.cpp -o store.o $(CXXFLAGS)
+
+warehouse.o: warehouse.cpp
+	$(CPP) -c warehouse.cpp -o warehouse.o $(CXXFLAGS)
+
+strategy.o: strategy.cpp
+	$(CPP) -c strategy.cpp -o strategy.o $(CXXFLAGS)
+
+test.o: test.cpp
+	$(CPP) -c test.cpp -o test.o $(CXXFLAGS)
+
+drug.o: drug.cpp
+	$(CPP) -c drug.cpp -o drug.o $(CXXFLAGS)

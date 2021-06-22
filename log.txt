@@ -1,0 +1,328 @@
+log:
+DAY 0:
+put on the shelves:40 20.008000
+put on the shelves:31 20.744700
+put on the shelves:48 21.934500
+put on the shelves:2 28.941600
+put on the shelves:24 25.229200
+put on the shelves:20 31.731600
+put on the shelves:34 22.440000
+put on the shelves:38 30.411200
+put on the shelves:30 33.926100
+put on the shelves:16 22.027200
+selled drug:40 20.008000 21.008000 -1.000000
+selled drug:31 20.744700 21.744700 -2.000000
+selled drug:48 21.934500 22.434500 -2.500000
+management fee:0 5 -3.500000
+management fee:1 7 -4.000000
+management fee:3 9 -4.500000
+management fee:4 4 -5.500000
+management fee:5 5 -6.500000
+management fee:6 4 -7.500000
+management fee:7 7 -8.000000
+management fee:8 4 -9.000000
+management fee:9 9 -9.500000
+management fee:10 4 -10.500000
+management fee:11 5 -11.500000
+management fee:12 1 -12.500000
+management fee:13 6 -13.000000
+management fee:14 4 -14.000000
+management fee:15 7 -14.500000
+management fee:17 10 -15.000000
+management fee:18 1 -16.000000
+management fee:19 9 -16.500000
+management fee:21 6 -17.000000
+management fee:22 4 -18.000000
+management fee:23 3 -19.000000
+management fee:25 3 -20.000000
+management fee:26 4 -21.000000
+management fee:27 15 -21.500000
+management fee:28 14 -22.000000
+management fee:29 14 -22.500000
+management fee:32 14 -23.000000
+management fee:33 15 -23.500000
+management fee:35 12 -24.000000
+management fee:36 12 -24.500000
+management fee:37 15 -25.000000
+management fee:39 12 -25.500000
+management fee:41 12 -26.000000
+management fee:42 11 -26.500000
+management fee:43 15 -27.000000
+management fee:44 12 -27.500000
+management fee:45 13 -28.000000
+management fee:46 13 -28.500000
+management fee:47 11 -29.000000
+management fee:49 12 -29.500000
+discard drug id: 12 purchasePrice: 29.409800
+discard drug id: 18 purchasePrice: 24.875000
+DAY 1:
+put on the shelves:15 20.762100
+put on the shelves:10 24.080600
+put on the shelves:20 26.231600
+put on the shelves:1 28.598000
+put on the shelves:21 27.704900
+put on the shelves:35 26.794400
+selled drug:15 20.762100 21.762100 -84.784800
+selled drug:10 24.080600 25.580600 -86.284800
+selled drug:20 26.231600 27.731600 -87.784800
+management fee:0 5 -88.784800
+management fee:2 3 -89.784800
+management fee:3 9 -90.284800
+management fee:4 4 -91.284800
+management fee:5 5 -92.284800
+management fee:6 4 -93.284800
+management fee:7 7 -93.784800
+management fee:8 4 -94.784800
+management fee:9 9 -95.284800
+management fee:11 5 -96.284800
+management fee:13 6 -97.284800
+management fee:14 4 -98.284800
+management fee:16 8 -98.784800
+management fee:17 10 -99.284800
+management fee:19 9 -99.784800
+management fee:22 4 -100.784800
+management fee:23 3 -101.784800
+management fee:24 9 -102.284800
+management fee:25 3 -103.284800
+management fee:26 4 -104.284800
+management fee:27 15 -104.784800
+management fee:28 14 -105.284800
+management fee:29 14 -105.784800
+management fee:30 14 -106.284800
+management fee:32 14 -106.784800
+management fee:33 15 -107.284800
+management fee:34 13 -107.784800
+management fee:36 12 -108.284800
+management fee:37 15 -108.784800
+management fee:38 12 -109.284800
+management fee:39 12 -109.784800
+management fee:41 12 -110.284800
+management fee:42 11 -110.784800
+management fee:43 15 -111.284800
+management fee:44 12 -111.784800
+management fee:45 13 -112.284800
+management fee:46 13 -112.784800
+management fee:47 11 -113.284800
+management fee:49 12 -113.784800
+DAY 2:
+put on the shelves:35 20.794400
+put on the shelves:13 21.604000
+put on the shelves:24 25.229200
+put on the shelves:17 29.720300
+put on the shelves:32 28.626100
+put on the shelves:19 28.011700
+put on the shelves:27 28.862700
+put on the shelves:5 29.464300
+put on the shelves:7 27.528300
+put on the shelves:25 28.999400
+selled drug:35 20.794400 20.794400 -113.784800
+selled drug:13 21.604000 23.104000 -115.284800
+selled drug:24 25.229200 25.729200 -115.784800
+management fee:0 5 -116.784800
+management fee:1 7 -117.784800
+management fee:2 3 -118.784800
+management fee:3 9 -119.284800
+management fee:4 4 -120.284800
+management fee:6 4 -121.284800
+management fee:8 4 -122.284800
+management fee:9 9 -122.784800
+management fee:11 5 -123.784800
+management fee:14 4 -124.784800
+management fee:16 8 -125.284800
+management fee:21 6 -126.284800
+management fee:22 4 -127.284800
+management fee:23 3 -128.284800
+management fee:26 4 -129.284800
+management fee:28 14 -129.784800
+management fee:29 14 -130.284800
+management fee:30 14 -130.784800
+management fee:33 15 -131.284800
+management fee:34 13 -131.784800
+management fee:36 12 -132.284800
+management fee:37 15 -132.784800
+management fee:38 12 -133.284800
+management fee:39 12 -133.784800
+management fee:41 12 -134.284800
+management fee:42 11 -134.784800
+management fee:43 15 -135.284800
+management fee:44 12 -135.784800
+management fee:45 13 -136.284800
+management fee:46 13 -136.784800
+management fee:47 11 -137.284800
+management fee:49 12 -137.784800
+discard drug id: 2 purchasePrice: 24.941600
+discard drug id: 23 purchasePrice: 21.754800
+discard drug id: 25 purchasePrice: 29.999400
+DAY 3:
+put on the shelves:47 20.986100
+put on the shelves:16 21.027200
+put on the shelves:32 21.126100
+put on the shelves:7 27.528300
+put on the shelves:4 24.744500
+put on the shelves:33 28.523100
+put on the shelves:41 24.522300
+put on the shelves:39 22.083600
+put on the shelves:22 21.846100
+put on the shelves:42 27.046200
+selled drug:47 20.986100 21.986100 -215.480600
+selled drug:16 21.027200 22.527200 -216.980600
+selled drug:32 21.126100 22.626100 -218.480600
+management fee:0 5 -219.480600
+management fee:1 7 -220.480600
+management fee:3 9 -220.980600
+management fee:5 5 -221.980600
+management fee:6 4 -222.980600
+management fee:8 4 -223.980600
+management fee:9 9 -224.480600
+management fee:11 5 -225.480600
+management fee:14 4 -226.480600
+management fee:17 10 -226.980600
+management fee:19 9 -227.480600
+management fee:21 6 -228.480600
+management fee:26 4 -229.480600
+management fee:27 15 -229.980600
+management fee:28 14 -230.480600
+management fee:29 14 -230.980600
+management fee:30 14 -231.480600
+management fee:34 13 -231.980600
+management fee:36 12 -232.480600
+management fee:37 15 -232.980600
+management fee:38 12 -233.480600
+management fee:43 15 -233.980600
+management fee:44 12 -234.480600
+management fee:45 13 -234.980600
+management fee:46 13 -235.480600
+management fee:49 12 -235.980600
+discard drug id: 4 purchasePrice: 22.744500
+discard drug id: 6 purchasePrice: 25.312400
+discard drug id: 8 purchasePrice: 22.750600
+discard drug id: 14 purchasePrice: 28.534800
+discard drug id: 22 purchasePrice: 21.846100
+discard drug id: 26 purchasePrice: 23.119300
+DAY 4:
+put on the shelves:46 20.144000
+put on the shelves:21 22.204900
+put on the shelves:28 22.814100
+put on the shelves:36 31.156800
+put on the shelves:19 30.011700
+put on the shelves:49 24.154800
+put on the shelves:30 29.426100
+put on the shelves:11 23.477600
+put on the shelves:43 25.308800
+put on the shelves:17 33.720300
+selled drug:46 20.144000 20.144000 -380.288300
+selled drug:21 22.204900 23.704900 -381.788300
+selled drug:28 22.814100 22.814100 -381.788300
+management fee:0 5 -382.788300
+management fee:1 7 -383.788300
+management fee:3 9 -384.788300
+management fee:5 5 -385.788300
+management fee:7 7 -386.788300
+management fee:9 9 -387.788300
+management fee:27 15 -388.288300
+management fee:29 14 -388.788300
+management fee:33 15 -389.288300
+management fee:34 13 -389.788300
+management fee:37 15 -390.288300
+management fee:38 12 -390.788300
+management fee:39 12 -391.288300
+management fee:41 12 -391.788300
+management fee:42 11 -392.288300
+management fee:44 12 -392.788300
+management fee:45 13 -393.288300
+discard drug id: 0 purchasePrice: 27.399200
+discard drug id: 5 purchasePrice: 29.964300
+discard drug id: 11 purchasePrice: 23.477600
+DAY 5:
+put on the shelves:1 21.098000
+put on the shelves:19 23.511700
+put on the shelves:44 32.901800
+put on the shelves:36 35.156800
+selled drug:1 21.098000 22.598000 -475.629400
+selled drug:19 23.511700 24.011700 -476.129400
+selled drug:44 32.901800 26.901800 -470.129400
+management fee:3 9 -471.129400
+management fee:7 7 -472.129400
+management fee:9 9 -473.129400
+management fee:17 10 -474.129400
+management fee:27 15 -474.629400
+management fee:29 14 -475.129400
+management fee:30 14 -475.629400
+management fee:33 15 -476.129400
+management fee:34 13 -476.629400
+management fee:37 15 -477.129400
+management fee:38 12 -477.629400
+management fee:39 12 -478.129400
+management fee:41 12 -478.629400
+management fee:42 11 -479.129400
+management fee:43 15 -479.629400
+management fee:45 13 -480.129400
+management fee:49 12 -480.629400
+DAY 6:
+put on the shelves:3 21.985200
+put on the shelves:39 22.083600
+put on the shelves:49 23.154800
+put on the shelves:29 34.328800
+put on the shelves:36 29.156800
+put on the shelves:17 29.720300
+put on the shelves:41 25.022300
+put on the shelves:37 26.587400
+put on the shelves:42 27.546200
+put on the shelves:33 33.023100
+selled drug:3 21.985200 21.985200 -480.629400
+selled drug:39 22.083600 23.083600 -481.629400
+selled drug:49 23.154800 24.154800 -482.629400
+management fee:7 7 -483.629400
+management fee:9 9 -484.629400
+management fee:27 15 -485.129400
+management fee:30 14 -485.629400
+management fee:34 13 -486.129400
+management fee:38 12 -486.629400
+management fee:43 15 -487.129400
+management fee:45 13 -487.629400
+discard drug id: 7 purchasePrice: 29.028300
+DAY 7:
+put on the shelves:41 25.522300
+put on the shelves:38 26.911200
+put on the shelves:29 27.328800
+put on the shelves:9 33.129900
+put on the shelves:27 30.862700
+put on the shelves:30 28.426100
+put on the shelves:36 35.156800
+selled drug:41 25.522300 25.522300 -516.657700
+selled drug:38 26.911200 28.411200 -518.157700
+selled drug:29 27.328800 28.328800 -519.157700
+management fee:17 10 -520.157700
+management fee:33 15 -520.657700
+management fee:34 13 -521.157700
+management fee:37 15 -521.657700
+management fee:42 11 -522.657700
+management fee:43 15 -523.157700
+management fee:45 13 -523.657700
+DAY 8:
+put on the shelves:34 22.940000
+put on the shelves:45 24.394300
+put on the shelves:43 24.808800
+put on the shelves:36 35.156800
+put on the shelves:9 35.129900
+put on the shelves:30 28.426100
+put on the shelves:27 28.862700
+put on the shelves:42 26.546200
+put on the shelves:37 28.087400
+put on the shelves:33 28.523100
+selled drug:34 22.940000 23.440000 -524.157700
+selled drug:45 24.394300 24.894300 -524.657700
+selled drug:43 24.808800 26.308800 -526.157700
+management fee:17 10 -527.157700
+discard drug id: 9 purchasePrice: 29.129900
+DAY 9:
+put on the shelves:42 26.546200
+put on the shelves:37 27.587400
+put on the shelves:17 31.720300
+selled drug:42 26.546200 28.046200 -557.787600
+selled drug:37 27.587400 28.087400 -558.287600
+selled drug:17 31.720300 27.720300 -554.287600
+management fee:27 15 -554.787600
+management fee:30 14 -555.787600
+management fee:33 15 -556.287600
+management fee:36 12 -557.287600
