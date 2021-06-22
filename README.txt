@@ -5,3 +5,4 @@
 20210608 11:50 "OK", with delete files to process;
 20210608 13:40 simulation process is almostly OK;
 20210609 11:47 almost ok, but everything  is mess by ctrl-Z(Y), a lot mess, ready to rewrite;
+20210620 00:00 push to github as backup
